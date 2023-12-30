@@ -1,0 +1,55 @@
+#home{
+	background:linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(img.jpg);
+	background-position: center;
+	background-size: cover;
+	padding: 250px;
+	color:#fff;
+}
+
+nav{
+	margin-bottom: -20px !important;
+}
+
+#edu{
+	
+    padding: 30px;
+	box-shadow:2px 3px 10px 2px #3a2727 ;
+	background-color: rgb(140, 13, 100);
+	color:#fff; 
+	
+}
+
+span{
+	background-color: rgb(55, 0, 255);
+}
+
+#icon{
+	font-size: 50px;
+}
+
+#icon1{
+	font-size: 20px;
+}
+#icon2{
+	font-size: 20px;
+	float:right;
+	margin-right: 10px;
+}
+
+#bt{
+	letter-spacing: 10px;
+}
+
+footer{
+	background-color: #000;
+    padding: 20px;
+    color: #fff;
+}
+
+
+.fixed{
+	top:0;
+	position:fixed;
+	width:100%;
+	z-index:1;
+}
